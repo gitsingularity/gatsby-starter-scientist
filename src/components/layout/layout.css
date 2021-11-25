@@ -21,15 +21,15 @@ body.light-mode {
   color: var(--color-font);
 }
 body.dark-mode {
-  --color-background: #252429;
-  --color-font: #f2f2f2;
+  --color-background: #000000;
+  --color-font: #ee0d0d;
   --color-font-contrast: #110202;
   --color-font-dark: #333;
   --color-font-light: #f2f2f2;
   --color-input-focus: rgba(59, 153, 252, .7);
-  --color-link: #5b95ff;
+  --color-link: #f80000;
   --color-link-visited: #9675ff;
-  --color-primary: #ff7A8A;
+  --color-primary: #ee0d0d;
   background-color: var(--color-background);
   color: var(--color-font);
 }

@@ -18,7 +18,7 @@ const Icon = ({
     <div className="nav__icon-svg-container">
       <Logo />
     </div>
-    { !isHomePage && <span>Home</span> }
+    { !isHomePage && <span>thesingularity.eth</span> }
   </Link>
 );
 
