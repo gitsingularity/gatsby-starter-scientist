@@ -17,7 +17,7 @@ const Landing = ({
   >
     <div>
       <h1>
-        The Lab of Dr.
+        | 
         {' '}
         {author}
       </h1>
