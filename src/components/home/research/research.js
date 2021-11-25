@@ -17,7 +17,7 @@ const Research = ({
   >
     <h2>
       <FontAwesomeIcon icon={faSearch} />
-      Research
+      Energies
     </h2>
     <ul className="research__list">
       {
