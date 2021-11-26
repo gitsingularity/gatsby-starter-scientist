@@ -1,20 +1,13 @@
-There are openings at several levels in the laboratory.
+There are several ways that members can help stimulate the growth of thesingularity.eth |
 
-### Postdoctoral
+### technology guild
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Odio aenean sed adipiscing diam donec
-adipiscing.
+More here soon...
 
-### Graduate students
+### relationships guild
 
-Adipiscing enim eu turpis egestas pretium aenean pharetra. Pretium
-lectus quam id leo in vitae turpis massa sed. Sed viverra ipsum nunc aliquet
-bibendum enim facilisis.
+More here soon...
 
-### Research associates
+### special projects guild
 
-Velit scelerisque in dictum non. In metus vulputate eu
-scelerisque. Ipsum dolor sit amet consectetur adipiscing elit duis. Nec ullamcorper
-sit amet risus nullam eget felis eget. Congue mauris rhoncus aenean vel elit
-scelerisque.
+More here soon...

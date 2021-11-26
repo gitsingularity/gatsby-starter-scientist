@@ -17,7 +17,7 @@ const Opportunities = ({
   >
     <h2>
       <FontAwesomeIcon icon={faUserFriends} />
-      Opportunities
+      Opportunity
     </h2>
     <div dangerouslySetInnerHTML={{ __html: html }} />
   </section>
