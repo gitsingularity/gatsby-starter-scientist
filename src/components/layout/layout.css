@@ -14,7 +14,7 @@ body.light-mode {
   --color-font-dark: #2dcf48;
   --color-font-light: #2dcf48;
   --color-input-focus: rgba(59, 153, 252, .7);
-  --color-link: #f80000;
+  --color-link: #551212;
   --color-link-visited: #9675ff;
   --color-primary: #ee0d0d;
   background-color: var(--color-background);

@@ -1,16 +1,15 @@
 module.exports = {
   pathPrefix: '/gatsby-starter-scientist',
   siteMetadata: {
-    author: 'You are not here by accident',
-    description: 'Transcendentalist musings on the future of robots',
-    siteUrl: 'https://knightjdr.github.io/gatsby-starter-scientist',
+    author: '',
+    description: '',
+    siteUrl: 'https://thesingularity.eth',
     title: 'thesingularity.eth',
     // List of link buttons to include on the landing image. Delete this field
     // and/or all entires if you do not want these links.
     // options: 'contact', 'opportunities', 'people', 'publications', 'research'
     primaryLinks: [
-      'research',
-      'opportunities',
+   
     ],
     // List of PubMed IDs to include on the publication page. Delete this field
     // and/or all entires if you do not want the publication page.
@@ -25,9 +24,7 @@ module.exports = {
     // it will not be shown. Delete this field and/or all entires to disable
     // footer links.
     footerLinks: [
-      { text: 'GitHub', link: 'https://github.com/knightjdr' },
-      { text: 'Google Scholar', link: 'https://scholar.google.ca/citations?user=M6Y_Y5cAAAAJ' },
-      { text: 'LinkedIn', link: 'https://www.linkedin.com/in/james-knight-174996156' },
+      { text: 'CLICK to Learn more about Ethereum from their decentralized website', link: 'https://ethereum.eth.limo' },
     ],
   },
   plugins: [

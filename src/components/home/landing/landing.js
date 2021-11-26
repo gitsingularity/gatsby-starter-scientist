@@ -24,7 +24,7 @@ const Landing = ({
       <p className="home__landing-description">
         {description}
       </p>
-      <Links links={links} />
+ <Links links={links} />
     </div>
   </Hero>
 );
