@@ -15,11 +15,11 @@ const Footer = ({
       && <Links links={links} />
     }
     <small>
-      © 
+      © is meaningless in the free world | created by
       {' thesingularity.eth '}
       {author}
       |
-      {' free for all - for all of time and space.'}
+      {' free for all - for all of time and space'}
       .
     </small>
   </footer>
