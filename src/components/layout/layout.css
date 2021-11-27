@@ -1,7 +1,7 @@
 html {
-  --font-primary: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Helvetica Neue", Helvetica, sans-serif;
+  --font-primary: Trebuchet;
   --font-secondary: 'Source Sans Pro', sans-serif;
-  --font-title: 'Quicksand', sans-serif;
+  --font-title: Arial, sans-serif;
   --timing-function: cubic-bezier(.17, .67, .16, .99);
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
@@ -9,13 +9,13 @@ html {
 body,
 body.light-mode {
   --color-background: #000000;
-  --color-font: #2dcf48;
-  --color-font-contrast: #2dcf48;
-  --color-font-dark: #2dcf48;
-  --color-font-light: #2dcf48;
+  --color-font: #ee0d0d;
+  --color-font-contrast: #110101;
+  --color-font-dark: #ee0d0d;
+  --color-font-light: #ee0d0d;
   --color-input-focus: rgba(59, 153, 252, .7);
-  --color-link: #551212;
-  --color-link-visited: #9675ff;
+  --color-link: #f80000;
+  --color-link-visited: #ff0d0d;
   --color-primary: #ee0d0d;
   background-color: var(--color-background);
   color: var(--color-font);
@@ -28,7 +28,7 @@ body.dark-mode {
   --color-font-light: #ee0d0d;
   --color-input-focus: rgba(59, 153, 252, .7);
   --color-link: #f80000;
-  --color-link-visited: #9675ff;
+  --color-link-visited: #ff0d0d;
   --color-primary: #ee0d0d;
   background-color: var(--color-background);
   color: var(--color-font);

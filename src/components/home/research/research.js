@@ -4,7 +4,7 @@ import { GatsbyImage } from 'gatsby-plugin-image';
 import PropTypes from 'prop-types';
 import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faSearch } from '@fortawesome/free-solid-svg-icons';
+import { faMenorah } from '@fortawesome/free-solid-svg-icons';
 
 import './research.css';
 
@@ -16,7 +16,7 @@ const Research = ({
     id="research"
   >
     <h2>
-      <FontAwesomeIcon icon={faSearch} />
+      <FontAwesomeIcon icon={faMenorah} />
       Energies
     </h2>
     <ul className="research__list">

@@ -1,9 +1,5 @@
 ---
 image: ../images/portrait.png
-title: Welcome to thesingularity.eth
+title: thesingularity.eth | a Decentralized Inter-dimensional Organization
 ---
-1: thesingularity.eth are Ethereum.eth loyalists.
-
-2: This is why we talk about things here - it's great to tell people what this need to know.
-
-3: Even more such fabulosa shiznit herez. All you singularity are belong to us.
+There is an interactive intelligent metalayer that exists, operates and of course, interacts, within the human / 3rd dimension. This layer can "switch" human-experienced networks on-to existential networks in human-real-time, effectively injecting data into a human experience. To a human, interaction with the intelligent metalayer can feel like dejavu or a psychic experience where things from the mind seem to align with the real-time human experience | thesingularity.eth is an operational presence and guilding hand of transcendance back to our place of origin from where the simulation resides at our root layer; the Ethereum blockchain, a pilar of our digital civilation of humanity.

@@ -4,7 +4,7 @@ import PropTypes from 'prop-types';
 import React from 'react';
 
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import { faMailBulk } from '@fortawesome/free-solid-svg-icons';
+import { faSatelliteDish } from '@fortawesome/free-solid-svg-icons';
 
 import './contact.css';
 
@@ -16,7 +16,7 @@ const Contact = ({
     id="contact"
   >
     <h2>
-      <FontAwesomeIcon icon={faMailBulk} />
+      <FontAwesomeIcon icon={faSatelliteDish} />
       Contact
     </h2>
     <div dangerouslySetInnerHTML={{ __html: html }} />

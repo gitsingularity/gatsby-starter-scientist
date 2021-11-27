@@ -1,4 +1,5 @@
-There are several ways that members can help stimulate the growth of thesingularity.eth |
+There are several ways that members can help stimulate the growth of thesingularity.eth 
+which of course in-turn, help all energies which benefit from such growth |
 
 ### technology guild
 

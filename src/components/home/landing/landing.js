@@ -17,7 +17,7 @@ const Landing = ({
   >
     <div>
       <h1>
-        | 
+        
         {' '}
         {author}
       </h1>

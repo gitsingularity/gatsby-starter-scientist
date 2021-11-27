@@ -15,12 +15,11 @@ const Footer = ({
       && <Links links={links} />
     }
     <small>
-      ©
-      {' '}
+      © 
+      {' thesingularity.eth '}
       {author}
-      ,
-      {' '}
-      {new Date().getFullYear()}
+      |
+      {' free for all - for all of time and space.'}
       .
     </small>
   </footer>

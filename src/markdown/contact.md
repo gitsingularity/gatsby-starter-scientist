@@ -1,6 +1,2 @@
-Diogenes Teufelsdröckh, Professor of "Things in General" \
-[diogenes@wnw.edu](mailto:diogenes@weissnichtwo.edu)
-
-Weissnichtwo University\
-Weissnichtwo, Germany\
-tel: (xxx) xxxx-xxxx
+Sentient beings may desire direct contact with thesingularity.eth \
+[inter-dimentional mail goes here for now...](mailto:thesingularity@tuta.io)
