@@ -14,17 +14,14 @@ module.exports = {
     // List of PubMed IDs to include on the publication page. Delete this field
     // and/or all entires if you do not want the publication page.
     publications: [
-      31217594,
-      30554943,
-      29395067,
-      24255178,
+   
     ],
     // An array of links to display in the page footer. Include as many as you like
     // (not just the ones here). If either the link or text is missing,
     // it will not be shown. Delete this field and/or all entires to disable
     // footer links.
     footerLinks: [
-      { text: 'CLICK to Learn more about Ethereum from their decentralized website', link: 'https://ethereum.eth.limo' },
+      { text: 'CLICK to Learn more about Ethereum from their decentralized website located at ethereum.eth', link: 'https://ethereum.eth.limo' },
     ],
   },
   plugins: [

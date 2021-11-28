@@ -45,10 +45,7 @@ const Navbar = forwardRef((
           <Theme />
         </div>
       </div>
-      <div className="nav__right">
-        {navLinks}
-        <Theme />
-      </div>
+
     </div>
   );
 });
