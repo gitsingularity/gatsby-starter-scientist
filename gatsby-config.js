@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '__GATSBY_IPFS_PATH_PREFIX__',
+  pathPrefix: '/gatsby-starter-scientist',
   siteMetadata: {
     author: '',
     description: '',
@@ -25,7 +25,6 @@ module.exports = {
     ],
   },
   plugins: [
-    'gatsby-plugin-ipfs',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-image',
     'gatsby-plugin-sharp',
