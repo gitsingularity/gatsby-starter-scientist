@@ -6,12 +6,9 @@ webhook_url:
 sections:
 - type: directory
   path: src/markdown
-  label: Sections ETC
+  label: ok
   create: all
   match: "**/*"
-- type: document
-  path: src/markdown/about.md
-  label: About
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
