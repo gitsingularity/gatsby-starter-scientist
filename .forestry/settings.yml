@@ -6,6 +6,11 @@ webhook_url:
 sections:
 - type: directory
   path: src/markdown
+  label: okokok
+  create: all
+  match: "**/*"
+- type: directory
+  path: src/markdown
   label: ok
   create: all
   match: "**/*"
