@@ -18,7 +18,7 @@ const Landing = ({
     <div>
       <h1>
         
-        {'More soon...'}
+        {'gm'}
         {author}
       </h1>
       <p className="home__landing-description">
