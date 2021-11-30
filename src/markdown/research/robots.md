@@ -1,7 +1,7 @@
 ---
 title: 
 image: ../../images/research/wooden-robot.png
-order: 1
+order: 2
 ---
 ENSrUS.eth is an ENS Name reseller with one of the most outrageous collections of ENS names in existence - thesingularity.eth owns & controls 100% of the ENSrUS wallet and it's related intiatives.
 
